@@ -1,0 +1,1 @@
+-- Sample SQL dump (empty)\n-- Use BackupHandler export to get actual content\n

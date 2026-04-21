@@ -1,0 +1,2 @@
+package clubconnect.models;
+public class Resource { private int id; private String name; private int capacity; private String description; private boolean available; public Resource(int id,String name,int capacity,String description,boolean available){this.id=id;this.name=name;this.capacity=capacity;this.description=description;this.available=available;} }

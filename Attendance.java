@@ -1,0 +1,2 @@
+package clubconnect.models;
+public class Attendance { private int id; private int eventId; private int userId; private boolean present; public Attendance(int id,int eventId,int userId,boolean present){this.id=id;this.eventId=eventId;this.userId=userId;this.present=present;} }

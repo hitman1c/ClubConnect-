@@ -1,0 +1,2 @@
+package clubconnect.models;
+public class BudgetRequest { private int id; private int eventId; private int requestedBy; private double amount; private String status; private String notes; public BudgetRequest(int id,int eventId,int requestedBy,double amount,String status,String notes){this.id=id;this.eventId=eventId;this.requestedBy=requestedBy;this.amount=amount;this.status=status;this.notes=notes;} }
